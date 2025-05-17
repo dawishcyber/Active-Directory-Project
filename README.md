@@ -105,10 +105,6 @@ This project demonstrates a foundational understanding of Active Directory setup
 ---
 
 ## How to Use
-
-1. Clone this repository to view project files and documentation:
-   ```bash
-   git clone https://github.com/dawishcyber/Active-Directory-Project.git
-2. Follow the documentation to replicate the setup in your virtual environment.
+Follow the [documentation](https://hexafortsec.hashnode.dev/how-to-set-up-an-active-directory-lab-for-beginners) to replicate the setup in your virtual environment.
 
 
